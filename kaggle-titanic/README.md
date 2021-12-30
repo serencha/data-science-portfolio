@@ -1,6 +1,6 @@
 # Kaggle Titanic
 
-[Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) is one of the most popular machine learning competitions on Kaggle. I made a Random Forest Classifier model and predicted survivability with an accuracy of 78.7%. This is in the 13th percentile of scores in this competition.
+[Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) is one of the most popular machine learning competitions on Kaggle. I made a Random Forest Classifier model and predicted survivability with an accuracy of **78.7%**. This is in the 13th percentile of scores in this competition.
 
 ### Process
 1. Data Cleaning & One-Hot Encoding
