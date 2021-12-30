@@ -8,14 +8,14 @@
 3. Tuning Hyperparameters
 4. Prediction
 
-#### Libraries Used
+#### 📚 Libraries Used
 - Pandas
 - Numpy
 - Scikit-learn
 - Matplotlib
 
 ### Reflection
-#### ✅ Pluses
+#### 🙌 Pluses
 I leveraged model architecture and parameters in random tree classifiers to avoid overfitting.
 
 #### 💡 Deltas
