@@ -15,10 +15,10 @@
 - Matplotlib
 
 ### Reflection
-#### Pluses
+#### ✅ Pluses
 I leveraged model architecture and parameters in random tree classifiers to avoid overfitting.
 
-#### Deltas
+#### 💡 Deltas
 If I were to do this challenge again, I would utilize feature engineering to make potentially relevant features such as extracting social class from names and determine deck from Cabin number. I could also spend more time performing exploratory analysis and excluding some irrelevant features from the start.
 
-I had much fun learning from this challenge. Look at my Kaggle profile [here](https://www.kaggle.com/serencha) and if you would like to connect, here is my [LinkedIn](https://www.linkedin.com/in/serenachang1/).
+I had much fun learning from this challenge. 🎉 Look at my Kaggle profile [here](https://www.kaggle.com/serencha) and if you would like to connect, here is my [LinkedIn](https://www.linkedin.com/in/serenachang1/).
